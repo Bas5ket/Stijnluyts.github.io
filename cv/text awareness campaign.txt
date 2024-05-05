@@ -1,0 +1,29 @@
+Een medewerker wordt opgebeld door iemand die zich voordoet als iemand anders 
+(bv. Energieleverancier/ICT-medewerker/collega) 
+om zo toegang te krijgen tot gevoelige informatie.
+
+medewerker wordt opgebeld.
+beller doet zich voor als iemand anders
+(energieleverancier, ICT of collega)
+toegang krijgen
+(gevoelige informatie of computer)
+
+
+We zouden willen een realistisch scenario verfilmen (effectief een vishing-call uitvoeren om te testen hoe goedgelovig ze zijn).
+Dit zouden we als afsluiten in de video kunnen plaatsen, als extraatje in de zin van “nog niet overtuigd? 
+Het is écht SNEL gebeurd..”
+Als dat niet lukt, kunnen we het zelf naspelen.
+
+realistisch scenario verfilmen
+proberen echt uitevoeren
+
+
+Een medewerker krijgt telefoon van een ICT-man, 
+onwetende dat dit niet effectief de persoon is die hij/zij beweert te zijn.
+De beller beweert dat er een check uitgevoerd/probleem nagekeken moet worden op zijn/haar computer.
+Uiteindelijk is het doel van de attacker om toegang te krijgen tot de computer.
+
+medewerker telefoonies opgebeld
+doet zich voor als ICT-man
+check uitvoeren/probleem nakijken
+doel: computer overnemen
